@@ -1,6 +1,6 @@
 {
   "name": "Batata Runner",
-  "short_name": "Batata-Runner",
+  "short_name": "Batata Runner",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#000000",
